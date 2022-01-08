@@ -1,18 +1,10 @@
 <h1 align="center">Carlos Silva</h1>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="lord-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="lord-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="lord-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="lord-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lord-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="lord-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="lord-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+<div align="center">
+  <img alt="lord-shinigami" width="75%" src="https://static.wixstatic.com/media/08bb2c_bff65cc9c9124591b406d2674dcdd5e6~mv2.gif">
 </div>
 
-<img align="right" alt="lord-shinigami" width="70px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
-
-### ○ Programador<br> ○ Hacker<br> ○ Desenvolvedor Web
+## ● Desenvolvedor Web <br>● Dev
 
 <h2 align="center">contato para trabalho:</h2>
 
@@ -22,10 +14,18 @@
   <a href="https://t.me/LordShinigami6666"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
-### 📚 Atualmente estudando C e Mysql
-
 <div align="center">
   <a href="https://github.com/LordShinigami">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LordShinigami&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordShinigami&layout=compact&langs_count=7&theme=light"/>
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="lord-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="lord-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="lord-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="lord-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="lord-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="lord-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="lord-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>

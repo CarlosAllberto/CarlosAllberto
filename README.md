@@ -4,7 +4,7 @@
   <img alt="carlos" width="75%" src="https://static.wixstatic.com/media/08bb2c_bff65cc9c9124591b406d2674dcdd5e6~mv2.gif">
 </div>
 
-## ● Desenvolvedor Web <br>● Dev
+## ● Desenvolvedor Web <br>● Programador
 
 <h2 align="center">contato para trabalho:</h2>
 

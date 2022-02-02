@@ -10,22 +10,24 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
 
-<img align="right" alt="gif" width="70px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
+<div align="center">
+    <img alt="gif" width="70%" src="https://camo.githubusercontent.com/0a61e78c4338a4bac0ebf9e958865e8a50db9f7c70098883ef423d310481396e/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3038626232635f62666636356363396339313234353931623430366432363734646364643565367e6d76322e676966">
+</div>
 
-### ○ Programador Web<br> ○ Hacker<br>
+### ○ Programador Web<br> ○ Hacker ético<br>
 
 <h2 align="center">contato para trabalho:</h2>
 
 <div align="center">
-  <a href="https://lordshinigami.github.io/pix/"><img src="https://img.shields.io/badge/Pix-gray?style=for-the-badge&logo=pix&logoColor=red" target="_blank"></a>
+  <a href="https://lordshinigami.github.io/pix/"><img src="https://img.shields.io/badge/Pix-gray?style=for-the-badge&logo=pix&logoColor=green" target="_blank"></a>
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
 </div>
 
-### 📚 Atualmente estudando C e Mysql
+### 📚 Atualmente estudando React.js e Mysql
 
 <div align="center">
   <a href="https://github.com/Carlos-Silva344">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Silva344&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Silva344&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Silva344&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Silva344&layout=compact&langs_count=7&theme=light"/>
 </div>

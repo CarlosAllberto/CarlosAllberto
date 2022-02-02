@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://lordshinigami.github.io/pix/"><img src="https://img.shields.io/badge/Pix-gray?style=for-the-badge&logo=pix&logoColor=red" target="_blank"></a>
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://t.me/Carlos-Silva344"><img src="https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
+  <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
 </div>
 
 ### 📚 Atualmente estudando C e Mysql

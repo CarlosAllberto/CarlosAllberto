@@ -28,6 +28,6 @@
 
 <div align="center">
   <a href="https://github.com/Carlos-Silva344">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Silva344&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Silva344&layout=compact&langs_count=7&theme=light"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Silva344&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Silva344&layout=compact&langs_count=7&theme=dracula"/>
 </div>

@@ -1,8 +1,8 @@
 <h1 align="center">Carlos Alberto</h1>
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Pix-gray?style=for-the-badge&logo=pix&logoColor=green" target="_blank"></a>
-  <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pix-black?style=for-the-badge&logo=pix&logoColor=lightgreen" target="_blank"></a>
+  <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
 </div>
 
 ## • 💻 Programador Web<br> • 🤖 Hacker ético<br>
@@ -28,6 +28,6 @@
 ## 📃 Stats
 <div align="center">
   <a href="https://github.com/CarlosAllberto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=gotham"/>
 </div>

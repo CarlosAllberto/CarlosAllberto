@@ -4,12 +4,9 @@
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
 </div>
+<img align=right alt="gif" width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## • 💻 Programador Web<br> • 🤖 Hacker ético<br>
-
-<div align="center">
-    <img alt="gif" width="70%" src="https://camo.githubusercontent.com/0a61e78c4338a4bac0ebf9e958865e8a50db9f7c70098883ef423d310481396e/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3038626232635f62666636356363396339313234353931623430366432363734646364643565367e6d76322e676966">
-</div>
 
 ## ⚡ Skills
 

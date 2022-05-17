@@ -25,6 +25,29 @@
 ## 📃 Stats
 <div align="center" style="display: flex;">
   <a href="https://github.com/CarlosAllberto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+## Repo
+  
+<div align=center>
+  <a href="https://github.com/CarlosAllberto/vwat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/CarlosAllberto/NodeSocks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeSocks&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/CarlosAllberto/LockPick">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=LockPick&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/CarlosAllberto/mant">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=mant&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/CarlosAllberto/CarlosAllberto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/CarlosAllberto/NodeChat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeChat&theme=tokyonight" />
+  </a>
 </div>

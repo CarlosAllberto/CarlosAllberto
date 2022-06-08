@@ -4,7 +4,7 @@
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
 </div>
-<img align=right alt="gif" width="35%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align=right alt="gif" width="35%" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
 
 ### • Estagiário Full Stack
 

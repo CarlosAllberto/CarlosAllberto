@@ -1,4 +1,7 @@
-<h1 align="center">Carlos Alberto</h1>
+## Hey 👋, I'm Carlos
+
+[![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
+
 <div align="center">
   <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" target="_blank"></a>
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -27,8 +30,8 @@
 ### 📃 Stats
 <div align="center" style="display: flex;">
   <a href="https://github.com/CarlosAllberto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <hr/>
@@ -37,21 +40,21 @@
   
 <div align=center>
   <a href="https://github.com/CarlosAllberto/vwat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/NodeSocks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeSocks&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeSocks&theme=dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/LockPick">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=LockPick&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=LockPick&theme=dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/mant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=mant&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=mant&theme=dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/CarlosAllberto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/NodeChat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeChat&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeChat&theme=dark" />
   </a>
 </div>

@@ -26,7 +26,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 <br />
-<p>📚 Atualmente estudando React e Node</p>
+<p align="center">Estudando React e Node</p>
 
 ### 📃 Stats
 <div align="center" style="display: flex;">

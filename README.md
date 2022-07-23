@@ -10,7 +10,7 @@
 
 [![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
 
-### ⚡ Skills
+### 💫 Skills
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,7 @@
 <br />
 <p align="center">Estudando React e Node</p>
 
-### 📃 Stats
+### 📋 Stats
 <div align="center" style="display: flex;">
   <img width="auto" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=dark"/>
@@ -37,7 +37,7 @@
   
 <hr/>
 
-### Repositories
+### 🗂 Repositories
   
 <div align=center>
   <a href="https://github.com/CarlosAllberto/vwat">

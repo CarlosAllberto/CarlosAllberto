@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Estagiario+Full+Stack;Hacker+Ético;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Estagiário+Full+Stack;Hacker+Ético;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" target="_blank"></a>

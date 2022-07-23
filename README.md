@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá+👋,+eu+sou+Carlos;Seja+muito+bem+vindo+😀)](https://git.io/typing-svg)
-
-[![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Estagiario+Full+Stack;Hacker+Ético)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" target="_blank"></a>
@@ -8,8 +6,7 @@
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
 </div>
 
-    ● Estagiário Full Stack
-    ● Hacker Ético
+[![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
 
 ### ⚡ Skills
 

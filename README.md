@@ -6,6 +6,8 @@
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
 </div>
 
+<br/>
+
 [![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
 
 ### ⚡ Skills

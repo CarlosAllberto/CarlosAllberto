@@ -4,7 +4,7 @@
   <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank"></a>
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" target="_blank"></a>
-  <a href="https://www.instagram.com/carlosallberto_s"><img src="https://img.shields.io/badge/-Instagram-violet?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://www.instagram.com/carlosallberto_s"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosallberto344"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 </div>
 

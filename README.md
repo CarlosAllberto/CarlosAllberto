@@ -56,7 +56,4 @@
   <a href="https://github.com/CarlosAllberto/CarlosAllberto">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=dark" />
   </a>
-  <a href="https://github.com/CarlosAllberto/NodeChat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeChat&theme=dark" />
-  </a>
 </div>

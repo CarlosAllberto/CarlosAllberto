@@ -51,3 +51,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=dark" />
   </a>
 </div>
+
+![Snake animation](https://github.com/carlosallberto/carlosallberto/blob/output/github-contribution-grid-snake.svg)

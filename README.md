@@ -30,8 +30,8 @@
 
 ## 📋 Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <br><br>
@@ -40,22 +40,22 @@
   
 <div align=center>
   <a href="https://github.com/CarlosAllberto/vwat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/NodeSocks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeSocks&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeSocks&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/LockPick">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=LockPick&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=LockPick&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/mant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=mant&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=mant&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/CarlosAllberto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/CarlosAllberto/BruteJS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=BruteJS&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=BruteJS&theme=chartreuse-dark" />
   </a>
 </div>
 

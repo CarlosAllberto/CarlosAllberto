@@ -1,3 +1,9 @@
+<div align="right">
+
+  [![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
+
+</div>
+
 <div style="display: inline_block">
   <img align="right" width="130px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/>
   <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" target="_blank"></a>
@@ -5,14 +11,6 @@
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a>
   <a href="https://www.instagram.com/carlosallberto_s"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosallberto344"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
-</div>
-
-<br><br>
-
-<div align="right">
-
-  [![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
-
 </div>
 
 <br><br>

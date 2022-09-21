@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-  <img align="right" heigth="20%" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/>
+  <img align="right" width="150px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/>
   <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank"></a>
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" target="_blank"></a>

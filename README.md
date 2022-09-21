@@ -29,9 +29,9 @@
 <br><br>
 
 ## 📋 Stats
-<div align="center" style="display: flex;">
-  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br><br>

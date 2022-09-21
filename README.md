@@ -1,10 +1,10 @@
 <div style="display: inline_block">
   <img align="right" width="130px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/>
-  <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank"></a>
-  <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" target="_blank"></a>
-  <a href="https://www.instagram.com/carlosallberto_s"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosallberto344"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
+  <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" target="_blank"></a>
+  <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a>
+  <a href="https://www.instagram.com/carlosallberto_s"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlosallberto344"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
 </div>
 
 <br><br>
@@ -21,8 +21,8 @@
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,c,linux,raspberrypi)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,c,linux,raspberrypi&theme=dark)](https://skillicons.dev)
 
 </div>
 

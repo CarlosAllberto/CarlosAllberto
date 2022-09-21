@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-  <img align="right" width="130" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/>
+  <img align="right" height="70%" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/>
   <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank"></a>
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" target="_blank"></a>
@@ -11,7 +11,7 @@
 
 <div align="right">
 
-[![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
+  [![Github](https://img.shields.io/github/followers/CarlosAllberto?label=Follow&style=social)](https://github.com/CarlosAllberto)
 
 </div>
 
@@ -19,15 +19,19 @@
 
 ## 💫 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,python,c,linux,raspberrypi)](https://skillicons.dev)
+<div align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,c,linux,raspberrypi)](https://skillicons.dev)
+
+</div>
 
 <br><br>
 
 ## 📋 Stats
 <div align="center" style="display: flex;">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br><br>
@@ -49,6 +53,9 @@
   </a>
   <a href="https://github.com/CarlosAllberto/CarlosAllberto">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=dark" />
+  </a>
+  <a href="https://github.com/CarlosAllberto/BruteJS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=BruteJS&theme=dark" />
   </a>
 </div>
 

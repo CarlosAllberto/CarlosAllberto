@@ -20,7 +20,7 @@
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs&theme=dark)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,c,linux,raspberrypi&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,wordpress,linux,raspberrypi&theme=dark)](https://skillicons.dev)
 
 </div>
 

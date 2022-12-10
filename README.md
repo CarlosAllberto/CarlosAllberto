@@ -9,17 +9,17 @@
   </div>
   <div>
   
-- 👨🏽‍💻 I’m a Security Enthusiast / Pentester
+- 👨🏽‍💻 I’m a Programmer / Pentester
 
 - 🤝🏽 Looking for Penetration Testing or Web Development Projects
 
-- 🎲 Interests : CTF / HTB, Writing Bash Scripts for Automation in Pentesting, Projects for Android and Raspberry Pi, Web Designing (Creative Portfolio).
+- 🎲 Interests : CTF / HTB, Writing Python Scripts for Automation in Pentesting, Projects for Android and Raspberry Pi, Web Front Development (Back end, Front end).
 
-- 👾 Discord : <a href="https://discordapp.com/users/540789640177647627">Mr.SΛGΣ#9779</a>
+- 👾 Discord : <a href="#">CarlosAllberto#8934</a>
   
-- 🎮 League of Legends / Valorant : Mr SAGE #1337
+- 🎮 League of Legends / Valorant : CarlosSilva#3904
 
-- 📧 Contact Me : <a href="mailto:thehackingsage@protonmail.com">thehackingsage@protonmail.com</a>
+- 📧 Contact Me : <a href="mailto:dasilvacarlosalberto344@gmail.com">dasilvacarlosalberto344@gmail.com</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
   

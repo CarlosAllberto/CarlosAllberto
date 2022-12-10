@@ -25,6 +25,8 @@
 - 👾 Discord : <a href="#">CarlosAllberto#8934</a>
   
 - 🎮 League of Legends / Valorant : CarlosSilva#3904
+   
+- 🎵 Metallica, Bring Me the Horizon
 
 - 📧 Contact Me : <a href="mailto:dasilvacarlosalberto344@gmail.com">dasilvacarlosalberto344@gmail.com</a>
 

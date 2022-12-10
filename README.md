@@ -54,15 +54,11 @@
   <a href="https://www.linkedin.com/in/carlosallberto344"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
 </div>
 
-<br><br>
-
 ## 💾 Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-
-<br><br>
 
 ## 🗃 Repositories
   

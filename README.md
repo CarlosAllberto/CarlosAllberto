@@ -21,7 +21,7 @@
 
 - 📧 Contact Me : <a href="mailto:dasilvacarlosalberto344@gmail.com">dasilvacarlosalberto344@gmail.com</a>
 
-- ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
+- ⚡ Eat 🍔 Sleep 😴 Code 💻 Repeat 🔁
   
   </div>
 </div>

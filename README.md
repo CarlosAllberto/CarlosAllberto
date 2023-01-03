@@ -22,9 +22,9 @@
 
 - 🎲 Interests : CTF / HTB, Writing Python Scripts for Automation in Pentesting, Projects for Android and Raspberry Pi, Web Front Development (Back end, Front end).
 
-- 👾 Discord : <a href="#">CarlosAllberto#8934</a>
+- 👾 Discord : <a href="#">CarlosAllberto#3570</a>
   
-- 🎮 League of Legends / Valorant : CarlosSilva#3904
+- 🎮 Valorant : CarlosSilva#3904
    
 - 🎵 Metallica, Bring Me the Horizon
 

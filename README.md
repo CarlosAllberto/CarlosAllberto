@@ -24,7 +24,7 @@
 
 - 👾 Discord : <a href="#">CarlosAllberto#3570</a>
   
-- 🎮 Valorant : CarlosSilva#3904
+- 🎮 Valorant : CarlosAllberto#2102
    
 - 🎵 Metallica, Bring Me the Horizon
 

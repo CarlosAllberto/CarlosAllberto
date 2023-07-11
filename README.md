@@ -1,12 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=carlosallberto)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/thehackingsage?tab=repositories)
 
-```
- _____         _         _____ _ _ _           _       
-|     |___ ___| |___ ___|  _  | | | |_ ___ ___| |_ ___ 
-|   --| .'|  _| | . |_ -|     | | | . | -_|  _|  _| . |
-|_____|__,|_| |_|___|___|__|__|_|_|___|___|_| |_| |___|
-```
+<img width="100%" src="https://i.postimg.cc/6qxb7mhD/b0ae3c6b-921c-4c51-aefa-bd892e857d77-rwc-0x460x2560x517x2560.png"/>
 
 <samp>
 
@@ -16,19 +11,19 @@
   </div>
   <div>
   
-- 👨🏽‍💻 I’m a Programmer / Pentester
+- 👨🏽‍💻 Sou Desenvolvedor/Pentester
 
-- 🤝🏽 Looking for Penetration Testing or Web Development Projects
+- 🤝🏽 Procurando por testes de penetração ou projetos de desenvolvimento web
 
-- 🎲 Interests : CTF / HTB, Writing Python Scripts for Automation in Pentesting, Projects for Android and Raspberry Pi, Web Front Development (Back end, Front end).
+- 🎲 Interesses: CTF/HTB, Escrever Scripts Python para Automação em Pentesting, Projetos para Android e Raspberry Pi, Desenvolvimento Web Front (Back-end, Front-end).
 
-- 👾 Discord : <a href="#">CarlosAllberto#3570</a>
+- 👾 Discord: <a href="#">CarlosAllberto#3570</a>
   
-- 🎮 Valorant : CarlosAllberto#2102
+- 🎮 Valorant: CarlosAllberto#2102
    
 - 🎵 Metallica, Bring Me the Horizon
 
-- 📧 Contact Me : <a href="mailto:dasilvacarlosalberto344@gmail.com">dasilvacarlosalberto344@gmail.com</a>
+- 📧 Contate-me: <a href="mailto:dasilvacarlosalberto344@gmail.com">dasilvacarlosalberto344@gmail.com</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Code 💻 Repeat 🔁
   
@@ -37,7 +32,7 @@
 
 <br><br>
 
-## 🐱‍💻 Skills
+## 🐱‍💻 Habilidades
 
 <div align="center">
 
@@ -46,7 +41,7 @@
 
 </div>
 
-## ⚓ Social Links
+## ⚓ Links Sociais
 
 <div style="display: inline_block" align=center>
   <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" target="_blank"></a>
@@ -54,34 +49,35 @@
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a>
   <a href="https://www.instagram.com/carlosallberto.dev"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosallberto344"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
+ <a href="https://www.behance.net/carlosdasilv49"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=blue" target="_blank"></a>
 </div>
 
-## 💾 Stats
+## 💾 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAllberto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAllberto&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-## 🗃 Repositories
+## 🗃 Repositórios
   
 <div align=center>
   <a href="https://github.com/CarlosAllberto/vwat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=blue-green" />
   </a>
   <a href="https://github.com/CarlosAllberto/NodeSocks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeSocks&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=NodeSocks&theme=blue-green" />
   </a>
   <a href="https://github.com/CarlosAllberto/LockPick">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=LockPick&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=LockPick&theme=blue-green" />
   </a>
   <a href="https://github.com/CarlosAllberto/mant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=mant&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=mant&theme=blue-green" />
   </a>
   <a href="https://github.com/CarlosAllberto/CarlosAllberto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=CarlosAllberto&theme=blue-green" />
   </a>
   <a href="https://github.com/CarlosAllberto/BruteJS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=BruteJS&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=BruteJS&theme=blue-green" />
   </a>
 </div>
 

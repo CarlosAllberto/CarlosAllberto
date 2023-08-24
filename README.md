@@ -44,7 +44,7 @@
 ## ⚓ Links Sociais
 
 <div style="display: inline_block" align=center>
-  <a href="http://wa.me/+5511959973501"><img src="https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" target="_blank"></a>
+  <a href="http://wa.me/+5587991156513"><img src="https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" target="_blank"></a>
   <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a>
   <a href="https://www.instagram.com/carlosallberto.dev"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>

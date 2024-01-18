@@ -1,8 +1,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=carlosallberto)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/thehackingsage?tab=repositories)
 
-<img width="100%" src="https://i.postimg.cc/6qxb7mhD/b0ae3c6b-921c-4c51-aefa-bd892e857d77-rwc-0x460x2560x517x2560.png"/>
-
 <samp>
 
 <div style="display: flex">
@@ -11,17 +9,19 @@
   </div>
   <div>
   
-- 👨🏽‍💻 Sou Desenvolvedor/Pentester
+- 👨🏽‍💻 Desenvolvedor/Pentester
 
-- 🤝🏽 Procurando por testes de penetração ou projetos de desenvolvimento web
+- 🤝🏽 Desenvolvendo para Web, Procurando por Testes de Penetração ou Fazendo Automatizações 
 
-- 🎲 Interesses: CTF/HTB, Escrever Scripts Python para Automação em Pentesting, Projetos para Android e Raspberry Pi, Desenvolvimento Web Front (Back-end, Front-end).
+- 🎲 Interesses: Desenvolvimento Web (Back-end, Front-end, Mobal), CTF/HTB, Escrever Python para Automação em Pentesting
 
 - 👾 Discord: <a href="#">CarlosAllberto#3570</a>
   
 - 🎮 Valorant: CarlosAllberto#2102
    
 - 🎵 Metallica, Bring Me the Horizon
+
+- 👽 Tecnologias: React, React Native, Node, TypeScript, Python
 
 - 📧 Contate-me: <a href="mailto:dasilvacarlosalberto344@gmail.com">dasilvacarlosalberto344@gmail.com</a>
 

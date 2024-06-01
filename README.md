@@ -6,7 +6,7 @@
 
 <p>Trabalhando na Mega Growth Marketing<br/> Eu sou desenvolvedor Full-stack</p>
 
-#### você pode falar comigo por aqui
+#### você pode falar comigo por aqui 👇
 
 <p align="left">
   <a href="mailto:dasilvacarlosalberto344@gmail.com" title="Gmail">

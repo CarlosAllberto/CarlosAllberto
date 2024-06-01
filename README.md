@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Carlos Alberto!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=202020&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=9fef00&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na Mega Growth Marketing<br/> Eu sou desenvolvedor full-stack</p>
 

@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlosallberto&show_icons=true&title_color=0a0a0a&text_color=0a0a0a&icon_color=0a0a0a&bg_color=9fef00&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlosallberto&show_icons=true&title_color=dddddd&text_color=dddddd&icon_color=dddddd&bg_color=0a0a0a&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Carlos Alberto!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=9fef00&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=202020&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na Mega Growth Marketing<br/> Eu sou desenvolvedor full-stack</p>
 

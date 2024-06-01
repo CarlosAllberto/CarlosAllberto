@@ -1,25 +1,22 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=carlosallberto)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/thehackingsage?tab=repositories)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlosallberto&show_icons=true&title_color=0a0a0a&text_color=0a0a0a&icon_color=0a0a0a&bg_color=9fef00&cache_seconds=2300" alt="ilustração do status do github">
 
-<samp>
-<img align="right" width="130px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/>
+### Olá, meu nome é Carlos Alberto!
 
-### Olá, eu sou Carlos Alberto 👋
+<img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=9fef00&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-Bem vindo(a). Eu sou um desenvolvedor Full Stack, uso tecnologias como React, React Native, Node.js, etc.
-Amo estudar coisas novas e ajudar pessoas a tirar dúvidas, eu não desisto até encontrar a solução para um problema de software.
-Busco melhorar a cada dia e ter mais conhecimento que o meu eu de ontem.
+<p>Trabalhando na Mega Growth Marketing<br/> Eu sou desenvolvedor full-stack</p>
 
 #### você pode falar comigo por aqui
 
-<div style="display: flex">
-  <a href="https://wa.me/5587991156513"><img src="https://img.shields.io/badge/-Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="mailto:dasilvacarlosalberto344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/CarlosSilva344"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/carlosallberto.dev"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosallberto344"><img src="https://img.shields.io/badge/-Linkedin-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.behance.net/carlosdasilv49"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-</div>
-
-![Snake animation](https://github.com/carlosallberto/carlosallberto/blob/output/github-contribution-grid-snake.svg)
-</samp>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>

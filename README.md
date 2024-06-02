@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlosallberto&show_icons=true&title_color=dddddd&text_color=dddddd&icon_color=dddddd&bg_color=0a0a0a&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlosallberto&show_icons=true&title_color=9fef00&text_color=dddddd&icon_color=dddddd&bg_color=202020&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Carlos Alberto!
 
